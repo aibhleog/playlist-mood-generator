@@ -4,6 +4,26 @@ This repo randomly generates a playlist mood, from 1+ adjectives and a noun.  To
 
 Yes, definitely overkill.  Sue me. 🔪
 
+### examples
+
+```
+[1] run generating_mood.py
+Your playlist prompt is: gamey draw
+Your modified playlist prompt is: juicy risk capital
+Your 3-word playlist prompt is: conscientious semiliterate nominee
+
+[2] run generating_mood.py
+Your playlist prompt is: royal communicator
+Your modified playlist prompt is: aerial bone
+Your 3-word playlist prompt is: misanthropical beamish reservation
+
+[3] run generating_mood.py
+Your playlist prompt is: unthoughtful forelimb
+Your modified playlist prompt is: permanent azimuth
+Your 3-word playlist prompt is: never-ending tenor refracting telescope
+```
+
+
 -----------
 
 ### where Taylor left off
